@@ -1,0 +1,4 @@
+# .gitattributes
+# Pickle files are to be treated as binary. 
+*.p binary
+*.lft binary
